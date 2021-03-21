@@ -1,0 +1,19 @@
+{
+    "name":"digital systems",
+    "code":"es333",
+    "marks":[ 
+        {
+            "name": "Quiz 1",
+            "score":100.0,
+            "total":100.0,
+            "weight": 10.0
+        },
+        {
+            "name": "midsem",
+            "score":10.0,
+            "total":100.0,
+            "weight": 90.0
+        }
+    ],
+    "grade": "A"
+}
